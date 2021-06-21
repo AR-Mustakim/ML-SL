@@ -1,0 +1,11 @@
+pandas
+matplotlib
+numpy
+scipy
+sklearn
+tweepy
+nltk
+textblob
+malaya
+
+
